@@ -37,8 +37,4 @@ public class IfMethod {
             return false;
         }
     }
-
-    public static int add(int a, int b) {
-        return a + b;
-    }
 }
