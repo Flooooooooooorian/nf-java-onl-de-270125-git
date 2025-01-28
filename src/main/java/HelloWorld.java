@@ -42,6 +42,8 @@ public class HelloWorld {
         System.out.println(age <= 18);
 
         System.out.println(age == 36 || myName == "Florian");
+
+        System.out.println("Hallo World");
     }
 
 }
